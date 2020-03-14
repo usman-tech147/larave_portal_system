@@ -122,23 +122,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HR/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-              <folding>
-                <element signature="e#43#71#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <state relative-caret-position="95">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -174,6 +162,7 @@
       <find>col-md-4</find>
       <find>col-12</find>
       <find>col-4</find>
+      <find>test</find>
     </findStrings>
     <replaceStrings>
       <replace>h4</replace>
@@ -356,6 +345,7 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -368,6 +358,35 @@
               <item name="Teacher_Portal_System" type="b2602c69:ProjectViewProjectNode" />
               <item name="Teacher_Portal_System" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Teacher_Portal_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Teacher_Portal_System" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Teacher_Portal_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Teacher_Portal_System" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Teacher_Portal_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Teacher_Portal_System" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Teacher_Portal_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Teacher_Portal_System" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Teacher_Portal_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Teacher_Portal_System" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -378,26 +397,26 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/laravel 5.8/Teacher_Portal_System/app/Http/Controllers/Teacher/Teaching/CourseDetailController.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/xampp/htdocs/UMTEMS" />
+    <property name="last_opened_file_path" value="D:/larave_portal_system" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\laravel 5.8\Teacher_Portal_System\resources\views\hr\users" />
-      <recent name="D:\laravel 5.8\Teacher_Portal_System\resources\views\hr\manage_program" />
-      <recent name="D:\laravel 5.8\Teacher_Portal_System\resources\views\hr\roles" />
-      <recent name="D:\laravel 5.8\Teacher_Portal_System\public\adminLTE_plugins_js" />
-      <recent name="D:\laravel 5.8\Teacher_Portal_System\public" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\laravel 5.8\Teacher_Portal_System\database\migrations\test" />
       <recent name="D:\laravel 5.8\Teacher_Portal_System\routes\Teacher_Routes" />
       <recent name="D:\laravel 5.8\Teacher_Portal_System\app\Http\Controllers\HR\ManageProgram" />
       <recent name="D:\laravel 5.8\Teacher_Portal_System\app\Http\Controllers\Teacher\Teaching" />
       <recent name="D:\laravel 5.8\Teacher_Portal_System\resources\views\teacher" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\laravel 5.8\Teacher_Portal_System\resources\views\hr\users" />
+      <recent name="D:\laravel 5.8\Teacher_Portal_System\resources\views\hr\manage_program" />
+      <recent name="D:\laravel 5.8\Teacher_Portal_System\resources\views\hr\roles" />
+      <recent name="D:\laravel 5.8\Teacher_Portal_System\public\adminLTE_plugins_js" />
+      <recent name="D:\laravel 5.8\Teacher_Portal_System\public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -496,12 +515,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="394560000" />
+    <option name="totallyTimeSpent" value="395507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49809885" visible="true" weight="0.2932886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49809885" visible="true" weight="0.2932886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" sideWeight="0.50190115" side_tool="true" weight="0.20939597" />
@@ -516,7 +536,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31914893" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31914893" />
       <window_info active="true" anchor="bottom" id="REST Client" order="12" weight="0.4326241" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -825,15 +845,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/testModel.php" />
+    <entry file="file://$PROJECT_DIR$/app/TestModel.php" />
     <entry file="file://$PROJECT_DIR$/database/migrations/test/2020_03_12_203732_create_test_models_table.php" />
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HR/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding>
-            <element signature="e#43#71#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="95">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
         </state>
       </provider>
     </entry>

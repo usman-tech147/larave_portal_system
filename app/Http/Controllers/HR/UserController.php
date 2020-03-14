@@ -4,7 +4,6 @@ namespace App\Http\Controllers\HR;
 
 use App\EmployeeFinalReport;
 use App\Models\Hr\ManageProgram\School;
-use App\testModel;
 use App\User;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
