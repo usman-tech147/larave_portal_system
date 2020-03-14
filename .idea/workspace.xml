@@ -77,9 +77,9 @@
           <entry key="env" value="4" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
-          <entry key="js" value="25" />
+          <entry key="js" value="26" />
           <entry key="json" value="18" />
-          <entry key="php" value="539" />
+          <entry key="php" value="541" />
           <entry key="rnc" value="1" />
           <entry key="scss" value="6" />
         </counts>
@@ -90,8 +90,8 @@
           <entry key="Blade" value="212" />
           <entry key="HTML" value="1" />
           <entry key="JSON" value="18" />
-          <entry key="JavaScript" value="25" />
-          <entry key="PHP" value="327" />
+          <entry key="JavaScript" value="26" />
+          <entry key="PHP" value="329" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="RNG Compact" value="1" />
           <entry key="SCSS" value="6" />
@@ -122,11 +122,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HR/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HR/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/TestModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+>>>>>>> 2cfaaa059325313fbb171ec5e8adc04539dab8da
             </state>
           </provider>
         </entry>
@@ -176,6 +193,9 @@
     <dirStrings>
       <dir>D:\laravel 5.8\Teacher_Portal_System\config</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -363,6 +383,7 @@
               <item name="Teacher_Portal_System" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="Teacher_Portal_System" type="b2602c69:ProjectViewProjectNode" />
               <item name="Teacher_Portal_System" type="462c0819:PsiDirectoryNode" />
@@ -387,6 +408,8 @@
               <item name="database" type="462c0819:PsiDirectoryNode" />
               <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> 2cfaaa059325313fbb171ec5e8adc04539dab8da
           </expand>
           <select />
         </subPane>
@@ -510,12 +533,16 @@
       <workItem from="1584033924799" duration="609000" />
       <workItem from="1584036695513" duration="5062000" />
       <workItem from="1584119035488" duration="593000" />
-      <workItem from="1584137825352" duration="2051000" />
+      <workItem from="1584137825352" duration="2644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="395507000" />
+=======
+    <option name="totallyTimeSpent" value="395153000" />
+>>>>>>> 2cfaaa059325313fbb171ec5e8adc04539dab8da
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -584,8 +611,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/database/factories/RoleFactory.php" />
-    <entry file="file://$PROJECT_DIR$/database/factories/SchoolFactory.php" />
     <entry file="file://$PROJECT_DIR$/database/factories/CourseAssessmentFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -845,6 +870,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/TestModel.php" />
     <entry file="file://$PROJECT_DIR$/database/migrations/test/2020_03_12_203732_create_test_models_table.php" />
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HR/UserController.php">
@@ -854,6 +880,9 @@
         </state>
       </provider>
     </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/database/migrations/test/2020_03_12_203732_create_test_models_table.php" />
+>>>>>>> 2cfaaa059325313fbb171ec5e8adc04539dab8da
     <entry file="file://$PROJECT_DIR$/resources/views/partials/main_sidebar.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
@@ -875,10 +904,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="416">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TestController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HR/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/TestModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
